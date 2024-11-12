@@ -41,7 +41,7 @@ FAQ:
 📲If you have any questions - contact
 
 ## Seed_Aim :
-<Seed_Aim_4.png">
+<img src="Seed_Aim_4.png">
 
  PRICE:
 
