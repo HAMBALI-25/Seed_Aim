@@ -75,11 +75,7 @@ https://mobile.seedaim.tech/
 
 
 ## Seed_Aim :
-<Seed_Aim_5.png">
-
-
-## Seed_Aim :
-<img src="Bull_Brute_5.png">
+<img src="Seed_Aim_5.png">
 
 ⚡️Free Discount Member Vip
 
@@ -101,6 +97,10 @@ Find wallets with me 👉
 
 ## Seed_Aim :
 <img src="Seed_Aim_7.png">
+💸 Free Discount Only 
+
+## Seed_Aim :
+<img src="Seed_Aim_8.png">
 💸 Free Discount Only 
 
 <img src="Promo_Discount_1.png">
