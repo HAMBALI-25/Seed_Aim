@@ -60,6 +60,9 @@ FAQ:
 
 🎚️7 blockchains  - $1540
 
+## Seed_Aim :
+<img src="Promo_Discount_2.png">
+
 TYPES OF LICENSE:
 
 💡Monthly - you pay for the license every month, we don't charge a commission on your finds
@@ -80,7 +83,7 @@ https://mobile.seedaim.tech/
 ⚡️Free Discount Member Vip
 
 ## Seed_Aim :
-<img src="Seed_Aim_6.png">
+<img src="Promo_Discount_3.png">
 
 👉 I provide you with all the 
 
