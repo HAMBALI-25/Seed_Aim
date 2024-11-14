@@ -6,12 +6,12 @@ Here Software
  Seed Aim Mobile
 
 
-</p>
-<p align="center">
-<a href="#"><img title="WhatsApp Num" src="https://img.shields.io/badge/WhatsApp%20Num-083128356342-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
+Here Software version Mobile
+Seed_Aim.apk
+
 
 <img src="Seed_Aim_1.png">
+
 💵 I would like to introduce you to our mnemonic bruteforcing app. This is not a new method of earning, but still very effective
 
 Any crypto address has its mnemonic phrase, which consists of 12 words. Knowing it you can get full access to the wallet. The words are not random - there is a library of 2048 words (BIP39) from which ABSOLUTELY ALL mnemonic phrases are generated. Our app generates mnemonic phrases and checks their balances on different blockchains
@@ -77,7 +77,7 @@ TYPES OF LICENSE:
 
 ❗️TEST PERIOD  - $80 / 1 day
 
-👨‍💻BUY LICENSE
+👨‍💻 BUY LICENSE
 
 do you want Seed Aim
 check the new app here
@@ -154,31 +154,46 @@ P.S. You can use other wallet recovery apps like : MetaMask, C98, Exodus and oth
 
 ### Hi. I'm Hambali Developers 
 
+Contact Me ☎️
+
+</p>
+<p align="center">
+<a href="#"><img title="WhatsApp Num" src="https://img.shields.io/badge/WhatsApp%20Num-083128356342-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+
+
 <img src="Hambali.png">
 
-# Contact Me And SosialMedia 
 
-• Linkedlin : (HAMBALI)
-
-• Facebook  : (Hambali)
-
-• Instagram : (hambali6737)
-
-• telegram  : (@HAMBALI251298)
-
-• Telpon    : (+6283128356342)
-
-
-## List of available sites:
+## PAYMEN BILLING ACCOUNTING 💸:
 ```
-[01] Facebook     [11] Twitch       [21] DeviantArt
-[02] Instagram    [12] Pinterest    [22] Badoo
-[03] Google       [13] Snapchat     [23] Origin
-[04] Microsoft    [14] Linkedin     [24] CryptoCoin
-[05] Netflix      [15] Ebay         [25] Yahoo
-[06] PayPal       [16] Dropbox      [26] Wordpress
-[07] Steam        [17] Protonmail   [27] Yandex
-[08] Twitter      [18] Spotify      [28] StackoverFlow
-[09] PlayStation  [19] Reddit       [29] VK
-[10] GitHub       [20] Adobe
-```
+
+Nama Rekening    : HAMBALI
+💳Nomor Rekening : 1732415280
+🏛️Bank/Ewallet   : BNI
+📞No/Hp/Wa       : 083128356342
+
+Nama Rekening    : HAMBALI
+💳Nomor Rekening : 1070020002293
+🏛️Bank/Ewallet   : MANDIRI
+📞No/Hp/Wa       : 083128356342
+
+Nama Rekening    : HAMBALI
+💳Nomor Rekening : 6125198485
+🏛️Bank/Ewallet   : BCA
+📞No/Hp/Wa       : 083128356342
+
+Nama Rekening    : HAMBALI
+💳Nomor Rekening : 337901048315530
+🏛️Bank/Ewallet   : BRI
+📞No/Hp/Wa       : 083128356342
+
+Nama Rekening    : HAMBALI
+💳Nomor Rekening : 7250360393
+🏛️Bank/Ewallet   : BSI
+📞No/Hp/Wa       : 083128356342
+
+Nama Rekening    : HAMBALI
+💳Nomor Rekening : 083128356342
+🏛️Bank/Ewallet   : PAYPAL
+📞No/Hp/Wa       : 083128356342
