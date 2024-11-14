@@ -2,10 +2,6 @@
 
 https://mobile.seedaim.tech/
 
-Here Software
- Seed Aim Mobile
-
-
 Here Software version Mobile
 Seed_Aim.apk
 
